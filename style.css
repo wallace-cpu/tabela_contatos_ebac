@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: cadetblue;
+    width: 100%;
+    height: 100vh;
+}
+.divisao{
+    width: 400px;
+    height: 250px;
+}
+#contact-form{
+    width: 100%;
+}
